@@ -1,0 +1,2 @@
+# Car Sales Management
+Gallerist is a car dealership management system built with Java and Spring Boot. It enables vehicle sales in both Turkish Lira (TL) and US Dollars (USD) by dynamically fetching real-time exchange rates from the Central Bank of Turkey (TCMB) API. The system ensures data integrity and security using PostgreSQL, Spring Security, and JWT Authentication. Exception management is implemented for error handling and a seamless user experience.

@@ -8,3 +8,12 @@ Gallerist is a car dealership management system built with Java and Spring Boot.
 - **PostgreSQL**
 - **JWT Authentication** for secure user access  
 - **TCMB API** for live currency exchange rates 
+
+## ⚡Features
+
+- Vehicle sales management in both TL and USD  
+- Real-time currency conversion using TCMB API  
+- Secure authentication and authorization with JWT  
+- Exception management for error handling  
+- RESTful API endpoints for easy integration  
+- Scalable and maintainable architecture

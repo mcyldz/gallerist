@@ -20,3 +20,6 @@ Gallerist is a car dealership management system built with Java and Spring Boot.
 
 ## 📌 Project Scope  
 This project is designed purely as a backend system. It does not include a frontend interface but provides well-structured APIs that can be integrated with any frontend application.  
+
+## 🔐 Security  
+- User authentication and authorization are managed with **Spring Security** and **JWT Authentication** to ensure a secure application environment.  

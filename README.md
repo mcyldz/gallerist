@@ -23,3 +23,26 @@ This project is designed purely as a backend system. It does not include a front
 
 ## 🔐 Security  
 - User authentication and authorization are managed with **Spring Security** and **JWT Authentication** to ensure a secure application environment.  
+
+## 🔧 Setup & Installation  
+1. Clone the repository:  
+   ```
+   git clone https://github.com/your-username/gallerist.git
+   ```
+
+2. Navigate to the project directory:
+    ```
+    cd gallerist
+    ```
+
+3. Configure the database settings in application.properties
+
+4. Run the application using:
+    ```
+    mvn spring-boot:run
+    ```
+
+📜 License
+    ```
+    This project is open-source and available under the MIT License.
+    ```

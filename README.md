@@ -4,7 +4,10 @@ Gallerist is a car dealership management system built with Java and Spring Boot.
 ## Technologies Used
 
 - **Java 17**  
-- **Spring Boot** (Spring Data JPA, Spring Web, Spring Security)  
+- **Spring Boot 3.x** (Spring Data JPA, Spring Web, Spring Security)
+- **Spring Data JPA**
+- **Spring Web**
+- **Spring Security**
 - **PostgreSQL**
 - **JWT Authentication** for secure user access  
 - **TCMB API** for live currency exchange rates 

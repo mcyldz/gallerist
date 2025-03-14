@@ -59,7 +59,18 @@ This project is designed purely as a backend system. It does not include a front
     mvn spring-boot:run
     ```
 
-📜 License
-    ```
-    This project is open-source and available under the MIT License.
-    ```
+## 🤝 Contributing
+
+We welcome contributions to this project! Please:
+
+Fork the project
+Create your feature branch (git checkout -b feature/amazing-feature)
+Commit your changes (git commit -m 'Add amazing feature')
+Push to the branch (git push origin feature/amazing-feature)
+Open a Pull Request
+
+
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### ⭐️ If you found this project useful, please consider giving it a star!
